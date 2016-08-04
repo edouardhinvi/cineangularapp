@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cine-angular
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
@@ -10,3 +11,7 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+=======
+# cineangularapp
+Web App de cinéma
+>>>>>>> 38abdfd396bace47a18bb64360f6415ac5480bcc
