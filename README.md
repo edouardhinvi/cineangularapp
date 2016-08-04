@@ -1,4 +1,4 @@
-# cine-angular
+# cineangularapp
 
 Web App de cinéma réalisée avec AngularJS et NodeJS.
 L'application utilise l'API de [themoviedb](https://www.themoviedb.org/documentation/api) afin d'afficher les informations relatives aux sorties de cinéma.
